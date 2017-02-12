@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "simplest_ffmpeg_video_encoder", "simplest_ffmpeg_video_encoder\simplest_ffmpeg_video_encoder.vcxproj", "{73A64B3B-DF52-4BDF-9573-18D5AD27D589}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "test9", "..\test9_模板\test9\test9.vcxproj", "{A9553EB1-99D1-4A10-9BD5-0EA387BA38B3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "test10", "C:\Users\evan_\Documents\Visual Studio 2010\Projects\test10\test10\test10.vcxproj", "{6A05C013-5E1A-4363-8666-CD4CB5DD115B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "simplest_ffmpeg_player2_su", "..\(5) 参考答案-FFmpeg+SDL视频播放器（2）\simplest_ffmpeg_player_su.vcxproj", "{3568F27B-55BC-48D0-BB84-583C2AA5A218}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TCPSrv", "..\..\代码\新建文件夹\TCPSrv\TCPSrv\TCPSrv.vcxproj", "{A3441BFD-B7AC-4A8C-8528-EEFADFC4EBE8}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TcpClient", "..\..\代码\新建文件夹\TCPSrv\TcpClient\TcpClient.vcxproj", "{454B5CC9-7E84-48AA-A3A5-4CB46D174238}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73A64B3B-DF52-4BDF-9573-18D5AD27D589}.Debug|Win32.ActiveCfg = Debug|Win32
+		{73A64B3B-DF52-4BDF-9573-18D5AD27D589}.Debug|Win32.Build.0 = Debug|Win32
+		{73A64B3B-DF52-4BDF-9573-18D5AD27D589}.Release|Win32.ActiveCfg = Release|Win32
+		{73A64B3B-DF52-4BDF-9573-18D5AD27D589}.Release|Win32.Build.0 = Release|Win32
+		{A9553EB1-99D1-4A10-9BD5-0EA387BA38B3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A9553EB1-99D1-4A10-9BD5-0EA387BA38B3}.Debug|Win32.Build.0 = Debug|Win32
+		{A9553EB1-99D1-4A10-9BD5-0EA387BA38B3}.Release|Win32.ActiveCfg = Release|Win32
+		{A9553EB1-99D1-4A10-9BD5-0EA387BA38B3}.Release|Win32.Build.0 = Release|Win32
+		{6A05C013-5E1A-4363-8666-CD4CB5DD115B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6A05C013-5E1A-4363-8666-CD4CB5DD115B}.Debug|Win32.Build.0 = Debug|Win32
+		{6A05C013-5E1A-4363-8666-CD4CB5DD115B}.Release|Win32.ActiveCfg = Release|Win32
+		{6A05C013-5E1A-4363-8666-CD4CB5DD115B}.Release|Win32.Build.0 = Release|Win32
+		{3568F27B-55BC-48D0-BB84-583C2AA5A218}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3568F27B-55BC-48D0-BB84-583C2AA5A218}.Debug|Win32.Build.0 = Debug|Win32
+		{3568F27B-55BC-48D0-BB84-583C2AA5A218}.Release|Win32.ActiveCfg = Release|Win32
+		{3568F27B-55BC-48D0-BB84-583C2AA5A218}.Release|Win32.Build.0 = Release|Win32
+		{A3441BFD-B7AC-4A8C-8528-EEFADFC4EBE8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A3441BFD-B7AC-4A8C-8528-EEFADFC4EBE8}.Debug|Win32.Build.0 = Debug|Win32
+		{A3441BFD-B7AC-4A8C-8528-EEFADFC4EBE8}.Release|Win32.ActiveCfg = Release|Win32
+		{A3441BFD-B7AC-4A8C-8528-EEFADFC4EBE8}.Release|Win32.Build.0 = Release|Win32
+		{454B5CC9-7E84-48AA-A3A5-4CB46D174238}.Debug|Win32.ActiveCfg = Debug|Win32
+		{454B5CC9-7E84-48AA-A3A5-4CB46D174238}.Debug|Win32.Build.0 = Debug|Win32
+		{454B5CC9-7E84-48AA-A3A5-4CB46D174238}.Release|Win32.ActiveCfg = Release|Win32
+		{454B5CC9-7E84-48AA-A3A5-4CB46D174238}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
